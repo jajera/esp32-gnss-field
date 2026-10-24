@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="GNSS field node icon">
+  <rect width="64" height="64" rx="14" fill="#1f8a70"/>
+  <!-- signal arcs rising from a ground point -->
+  <g fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round">
+    <path d="M20 44 A 14 14 0 0 1 44 44"/>
+    <path d="M26 44 A 8 8 0 0 1 38 44"/>
+  </g>
+  <!-- satellite fix dot -->
+  <circle cx="32" cy="44" r="4.5" fill="#ffffff"/>
+  <!-- mast / antenna -->
+  <rect x="30.5" y="16" width="3" height="24" rx="1.5" fill="#ffffff"/>
+  <path d="M32 12 l6 7 l-12 0 z" fill="#ffffff"/>
+</svg>
